@@ -105,13 +105,3 @@ The ensemble model (XGBoost + Random Forest) achieves strong predictive performa
 - Robust 5-fold cross-validation results
 
 ---
-
-## 👤 Author
-
-> Add your name and institution here
-
----
-
-## 📄 License
-
-This project is for academic/research purposes.
